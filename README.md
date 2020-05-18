@@ -11,7 +11,7 @@ GPU Usage: 11GB
       export PATH=/usr/local/cuda-9.0/bin:${PATH}
       export LD_LIBRARY_PATH=/usr/local/cuda-9.0/lib64:${LD_LIBRARY_PATH}
       export CUDA_HOME=/usr/local/cuda-9.0 </pre>
-  2. Install conda environment (refer requirements.pip.txt or requirements.conda.txt)
+  2. Install conda environment (refer to envs/requirements.pip.txt or envs/requirements.conda.txt)
   3. Modify absolute paths for data dir, weight files (try running and then fix)
 
 # Usage
