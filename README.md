@@ -31,16 +31,16 @@ GPU Usage: 11GB
   2. FBRS Interactive Segmentation: https://github.com/saic-vul/fbrs_interactive_segmentation
   <pre>
       @article{fbrs2020,
-      title={f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation},
-      author={Konstantin Sofiiuk, Ilia Petrov, Olga Barinova, Anton Konushin},
-      journal={arXiv preprint arXiv:2001.10331},
-      year={2020}
+        title={f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation},
+        author={Konstantin Sofiiuk, Ilia Petrov, Olga Barinova, Anton Konushin},
+        journal={arXiv preprint arXiv:2001.10331},
+        year={2020}
     } </pre>
   3. CascadePSP: https://github.com/hkchengrex/CascadePSP
   <pre>
     @inproceedings{CascadePSP2020,
-    title={CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement},
-    author={Cheng, Ho Kei and Chung, Jihoon and Tai, Yu-Wing and Tang, Chi-Keung},
-    booktitle={CVPR},
-    year={2020}
+      title={CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement},
+      author={Cheng, Ho Kei and Chung, Jihoon and Tai, Yu-Wing and Tang, Chi-Keung},
+      booktitle={CVPR},
+      year={2020}
   } </pre>
